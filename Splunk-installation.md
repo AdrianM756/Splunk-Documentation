@@ -1,4 +1,4 @@
-![image](https://miro.medium.com/v2/resize:fit:1304/0*x1NBWOjNFgQ6uF4B)
+![image](https://splunk.github.io/splunk-add-on-for-github-audit-log-monitoring/static/splunk-logo.png)
 
 ## Splunk
 
