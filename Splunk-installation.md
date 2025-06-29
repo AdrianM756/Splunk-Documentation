@@ -1,3 +1,5 @@
+![image](https://miro.medium.com/v2/resize:fit:1304/0*x1NBWOjNFgQ6uF4B)
+
 ## Splunk
 
 [Splunk](https://www.splunk.com/) is a software used for monitoring, searching and analyze data. It erforms capturing, indexing, and correlating the real-time data in a searchable container from which can produce graphs, alerts, reports, etc.
